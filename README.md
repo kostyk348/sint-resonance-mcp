@@ -1,5 +1,9 @@
 # sint-resonance-mcp
 
+[![Release](https://img.shields.io/github/v/release/kostyk348/sint-resonance-mcp?sort=semver&color=blue)](https://github.com/kostyk348/sint-resonance-mcp/releases)
+[![License](https://img.shields.io/badge/license-Apache-2.0-green)](https://github.com/kostyk348/sint-resonance-mcp/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/kostyk348/sint-resonance-mcp?branch=main)](https://github.com/kostyk348/sint-resonance-mcp/commits/main)
+
 Resonance Detection MCP server — proactively finds cross-domain pattern matches between the current problem and past experiences.
 
 ## Tools
