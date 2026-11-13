@@ -1,10 +1,19 @@
+<div align="center">
+
+<img src="docs/banner.svg" alt="sint-resonance-mcp banner" width="1000">
+
 # sint-resonance-mcp
+
+### Resonance Detection MCP server — proactively finds cross-domain pattern matches between the current problem and past experiences.
 
 [![Release](https://img.shields.io/github/v/release/kostyk348/sint-resonance-mcp?sort=semver&color=blue)](https://github.com/kostyk348/sint-resonance-mcp/releases)
 [![License](https://img.shields.io/badge/license-Apache-2.0-green)](https://github.com/kostyk348/sint-resonance-mcp/blob/main/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/kostyk348/sint-resonance-mcp?branch=main)](https://github.com/kostyk348/sint-resonance-mcp/commits/main)
 
-Resonance Detection MCP server — proactively finds cross-domain pattern matches between the current problem and past experiences.
+</div>
+
+---
+
 
 ## Tools
 
